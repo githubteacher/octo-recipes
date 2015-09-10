@@ -19,3 +19,7 @@ categories: main
 - Pepper
 - steak
 - Carrots
+
+## Vegetarian Alternative
+
+* just skip the meat
