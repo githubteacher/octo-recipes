@@ -9,6 +9,10 @@ categories: entree
 - Pizza dough
 - Italian red sauce
 - Mozarella cheese
+- Edamer cheese
+- Goat cheese
+- Blue cheese
+- Any other cheese still left in your fridge
 - Bell Peppers
 - Onions
 
