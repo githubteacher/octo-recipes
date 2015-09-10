@@ -5,5 +5,5 @@
 1. 3/4 cup thinly sliced onions
 1. 3/4 teaspoon salt
 1. 1 teaspoon vegetable oil
-1. 2 cups water
-1. 1 cup distilled white vinegar
+1. 2,5 cups water
+1. 1/2 cup distilled white vinegar
