@@ -18,3 +18,6 @@ categories: desert
 Spread a healthy amount of Nutella on to a baguette, and place as much peanut butter as you feel acceptable on to the other half of the baguette.
 
 Slice banana into `1/2cm` slices and place in a row on the baguette and combine two halves together and take your first bite into bliss.
+
+Optional, to make a tribute to Elvis, spread one side of the bread with peanut butter and the other with Nutella
+![alt text](http://www.elvisblog.net/Mr.%20Potato%20Head/Elvis%20Aloha%20Bobble%20Head.jpg "Logo Title Text 1")
