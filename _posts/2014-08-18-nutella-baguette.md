@@ -10,7 +10,7 @@ categories: desert
 ## Ingredients
 - Baguette
 - [Nutella](http://www.nutellausa.com/)
-- Peanut Butter
+- A lot of Peanut Butter
 - Nanner
 
 ## Directions
