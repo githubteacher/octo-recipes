@@ -11,6 +11,7 @@ categories: entree
 - Mozarella cheese
 - Bell Peppers
 - Onions
+- gorgonzola
 
 ## Directions
 
