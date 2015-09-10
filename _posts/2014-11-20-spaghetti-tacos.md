@@ -11,8 +11,8 @@ Here’s how to make Tacos from iCarly
 
 - Ortega taco shell kit
 - Chopped beef
-- Tabasco Sauce
-- Dried Spaghetti
+- Ketchup
+- Fresh Spaghetti
 - water 
 - Emerills tomato sauce
 - Salt
