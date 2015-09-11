@@ -17,4 +17,4 @@ categories: desert
 
 Spread a healthy amount of Nutella on to a baguette, and place as much peanut butter as you feel acceptable on to the other half of the baguette.
 
-Extra layer of nutella instead of banana, please
+Extra layer of nutella instead of banana
