@@ -1,3 +1,4 @@
+Add some chestnut cream
 ---
 layout: post
 title:  "Artisan Baguette with Nutella and Fresh Fruit"
